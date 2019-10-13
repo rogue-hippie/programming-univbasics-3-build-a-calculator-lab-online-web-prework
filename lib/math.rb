@@ -33,4 +33,4 @@ def square_root(num)
   sqrt(num)
 end
 
-modulo(73)
+square_root(73)
