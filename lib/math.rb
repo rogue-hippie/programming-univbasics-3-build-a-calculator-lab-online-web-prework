@@ -24,7 +24,7 @@ multiplication(3, 4)
 
 
 def modulo(num1, num2)
-  num1 / num2
+  num1 % num2
 end
 
 modulo(34, 5)
