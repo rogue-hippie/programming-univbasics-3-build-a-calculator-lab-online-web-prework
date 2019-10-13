@@ -1,26 +1,10 @@
-def addition(num1, num2)
-  num1 + num2
-end
+  1) #addition adds two numbers together
+     Failure/Error: expect(addition(5,4)).to eq(9)
 
-addition(4, 5)
+       expected: 9
+            got: nil
 
-def subtraction(num1, num2)
-  num1 - num2
-end
-
-subtraction(9, 4)
-
-def division(num1, num2)
-  num1 / num2
-end
-
-division(12, 3)
-
-def multiplication(num1, num2)
-  num1 * num2
-end
-
-multiplication(3, 4)
+       (compared using ==)
 
 
 def modulo(num1, num2)
