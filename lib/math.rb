@@ -30,6 +30,7 @@ end
 modulo(34, 5)
 
 def square_root(num)
-  sqrt(73)
-
+  sqrt(num)
 end
+
+modulo(73)
