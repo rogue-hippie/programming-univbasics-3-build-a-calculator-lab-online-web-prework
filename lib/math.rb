@@ -20,7 +20,7 @@ def multiplication(num1, num2)
   num1 * num2
 end
 
-(3, 4)
+multiplication(3, 4)
 
 
 def modulo(num1, num2)
