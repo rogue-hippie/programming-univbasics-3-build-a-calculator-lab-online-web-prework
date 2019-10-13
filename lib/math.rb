@@ -17,8 +17,11 @@ end
 division(12, 3)
 
 def multiplication(num1, num2)
-
+  num1 * num2
 end
+
+multiplication(3, 4)
+
 
 def modulo(num1, num2)
 
